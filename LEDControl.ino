@@ -2,6 +2,7 @@
    http://www.pjrc.com/teensy/tutorial.html
  
    This example code is in the public domain.
+   This is a modified LED Blink for other LED Colors
 */
 
 // Teensy 2.0 has the LED on pin 11
