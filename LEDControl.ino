@@ -1,7 +1,6 @@
 /* LED Blink, Teensyduino Tutorial #1
    http://www.pjrc.com/teensy/tutorial.html
  
-   This example code is in the public domain.
    This is a modified LED Blink for other LED Colors
 */
 
